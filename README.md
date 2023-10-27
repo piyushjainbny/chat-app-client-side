@@ -2,4 +2,4 @@
 Chat app created with React and chatengine
 
 Note: UI is not optimised for Mobile devices;
-either user desktop site on mobiles or use this on your system
+either use desktop site on mobiles or use this on your Laptop or computer
