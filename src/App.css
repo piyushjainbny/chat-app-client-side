@@ -1,0 +1,49 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+::-webkit-scrollbar {
+    width: 0; /* Remove scrollbar space */
+    background: transparent; /* Optional: just make scrollbar invisible */
+}
+.background{
+  background-color:black;
+  height :100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color:white
+}
+.form-title{
+  font-family:arial,helvetica,sans-serif;
+  font-size:40px;
+  font-weight:bold;
+}
+.form-subtitle{
+  font-family:arial,helvetica,sans-serif;
+  font-size:20px;
+  font-weight:bold
+}
+.auth-button{
+  background-color:orange;
+  color:white;
+  padding:10px;
+  border-radius:0 5px 5px 0;
+}
+.auth-input{
+  padding:10px;
+  border:none;
+  border-radius:5px 0 0 5px;
+}
+.auth-button:hover{
+  background-color:darkorange;
+color:#f4f4f4
+}
+.auth-label{
+  font-family:arial,helvetica,sans-serif;
+  
+}
+.auth{
+  margin-top:10px;
+}
